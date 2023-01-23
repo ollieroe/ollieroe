@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**ollieroe/ollieroe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Ollie an aspiring Web Developer. I have an eclectic interest in most things but anything, tech, fitness, travel, adventure and environmental are my focus at the mintue. 
 
-Here are some ideas to get you started:
+The languages I currrently use include Javascript, HTML and CSS and have almost completed the HyperionDev Web DEvelopement course. I am eger to learn more as I progress in my web development skills and looking forward to creating new projects or helpig build new features. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently working on a website that focuses on building a sustainable and more enjoyable side to being healthy and fit. It will focus less on workings and training regimes and more on consistency and active movement, whatever that entails for each person. 
+
+I am continuing to develop my kowledege of Javascript, HTML and CSS which be enable me to progress my current website project and upgrade looks and functionality and possibly increase engagement. 
+
+My background is an Advanced Podiatrist in the NHS with a Masters in Podiatric Surgery, with a foundation degree in Sport, Health and Exercise Science. I have ample knowledge how to research and the ability to learn qucikly and adopt new skills into practice quickly. 
+
+If you'd like to reach out please contact me on: oliverjroe@gmail.com
+
+I'll continue to work on the fitness website but have plenty ideas for other projects that I'll get started with soon. 
