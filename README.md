@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Ollie an aspiring Web Developer. I have an eclectic interest in most things but anything, tech, fitness, travel, adventure and environmental are my focus at the mintue. 
+I'm Ollie a Web Developer. I have an eclectic interest in most things but anything, tech, fitness, travel, adventure and environmental are my focus at the mintue. 
 
 The languages I currrently use include Javascript, HTML and CSS and have almost completed the HyperionDev Web DEvelopement course. I am eger to learn more as I progress in my web development skills and looking forward to creating new projects or helpig build new features. 
 
